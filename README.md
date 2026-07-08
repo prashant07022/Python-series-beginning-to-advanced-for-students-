@@ -24,3 +24,22 @@ print("hello world!")
 
 ### Output 
 hello world!
+
+### Our second program 
+name = "shivam"
+
+age = 23
+
+price = 25.99
+
+print(name)
+print(age)
+print(price)
+
+### Output 
+shivam
+
+23
+
+25.99
+
